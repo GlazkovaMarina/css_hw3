@@ -1,0 +1,122 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: white;
+}
+
+.main__logo__header {
+    padding-top: 40px;
+}
+
+.main__logo__header_text_start {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 45px;
+}
+
+.main__logo__header_text_end {
+    color: #F25822;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 45px;
+}
+
+.header__link__home {
+    color: #F25822;
+    font-family: Gilroy-SemiBold;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.header__link {
+    color: #000;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main__header {
+    padding-top: 51px;
+}
+
+.main__content {
+    padding-top: 96px;
+    padding-bottom: 162px;
+}
+
+.main_photo {
+    padding-top: 94.71px;
+}
+
+.title {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 15px;
+}
+
+.sub__title {
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.start__button__text {
+    color: #FFF;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 15px;
+    padding-bottom: 16px;
+    padding-left: 35px;
+    padding-right: 36px;
+    margin-top: 52px;
+}
+
+.start__button {
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    border: 0px;
+}
+
+.video__button {
+    color: #AAA;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 72px;
+}
+
+.main__logo {
+    margin-top: 97px;
+    margin-bottom: 97px;
+}
