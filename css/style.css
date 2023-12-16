@@ -63,7 +63,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-bottom: 15px;
+    margin-bottom: 17px;
 }
 
 .sub__title {
@@ -73,20 +73,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-}
-
-.button__start__text {
-    color: #FFF;
-    font-family: Gilroy-Bold;
-    font-size: 15px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    padding-top: 15px;
-    padding-bottom: 16px;
-    padding-left: 35px;
-    padding-right: 36px;
-    margin-top: 52px;
+    margin-bottom: 37px;
 }
 
 .button__start {
@@ -94,6 +81,13 @@ body {
     background: #F25822;
     box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
     border: 0px;
+    color: #FFF;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 15px 35px;
 }
 
 .button__video {
