@@ -11,21 +11,21 @@ body {
     background-color: white;
 }
 
-.logo__header {
+.main__header {
     padding-top: 40px;
+    padding-bottom: 40px;
 }
 
-.main__logo__header_text {
+.main__header__logo__text {
     color: #000;
     font-family: Gilroy-Bold;
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    /* padding-top: 45px; */
 }
 
-.main__logo__header_text_end {
+.main__header__logo__text__end {
     color: #F25822;
 }
 
@@ -47,16 +47,12 @@ body {
     line-height: normal;
 }
 
-.main__header {
-    padding-top: 51px;
-}
-
 .main__content {
-    padding-top: 96px;
+    padding-top: 44px;
     padding-bottom: 162px;
 }
 
-.main_photo {
+.main__photo {
     padding-top: 94.71px;
 }
 
@@ -79,7 +75,7 @@ body {
     line-height: normal;
 }
 
-.start__button__text {
+.button__start__text {
     color: #FFF;
     font-family: Gilroy-Bold;
     font-size: 15px;
@@ -93,14 +89,14 @@ body {
     margin-top: 52px;
 }
 
-.start__button {
+.button__start {
     border-radius: 50px;
     background: #F25822;
     box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
     border: 0px;
 }
 
-.video__button {
+.button__video {
     color: #AAA;
     font-family: Gilroy-Bold;
     font-size: 15px;
