@@ -11,28 +11,22 @@ body {
     background-color: white;
 }
 
-.main__logo__header {
+.logo__header {
     padding-top: 40px;
 }
 
-.main__logo__header_text_start {
+.main__logo__header_text {
     color: #000;
     font-family: Gilroy-Bold;
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    padding-top: 45px;
+    /* padding-top: 45px; */
 }
 
 .main__logo__header_text_end {
     color: #F25822;
-    font-family: Gilroy-Bold;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    padding-top: 45px;
 }
 
 .header__link__home {
