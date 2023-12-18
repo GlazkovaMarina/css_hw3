@@ -3,6 +3,27 @@
     margin: 0;
 }
 
+@font-face {
+    font-family: "Gilroy-Bold";
+    src: url("../fonts/GilroyBold/GilroyBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Gilroy-SemiBold";
+    src: url("../fonts/GilroySemiBold/GilroySemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Gilroy-Medium";
+    src: url("../fonts/GilroyMedium/GilroyMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
+
 a {
     text-decoration: none;
 }
@@ -33,7 +54,7 @@ body {
 
 .main__header__logo__text {
     color: #000;
-    font-family: Gilroy-Bold;
+    font-family: "Gilroy-Bold";
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -46,7 +67,7 @@ body {
 
 .header__link__home {
     color: #F25822;
-    font-family: Gilroy-SemiBold;
+    font-family: "Gilroy-SemiBold";
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -55,7 +76,7 @@ body {
 
 .header__link {
     color: #000;
-    font-family: Gilroy-Medium;
+    font-family: "Gilroy-Medium";
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -85,7 +106,7 @@ body {
 
 .title {
     color: #000;
-    font-family: Gilroy-Bold;
+    font-family: "Gilroy-Bold";
     font-size: 60px;
     font-style: normal;
     font-weight: 400;
@@ -95,7 +116,7 @@ body {
 
 .sub__title {
     color: #888;
-    font-family: Gilroy-Medium;
+    font-family: "Gilroy-Medium";
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -109,7 +130,7 @@ body {
     box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.20);
     border: 0;
     color: #FFF;
-    font-family: Gilroy-Bold;
+    font-family: "Gilroy-Bold";
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
@@ -119,7 +140,7 @@ body {
 
 .button__video {
     color: #AAA;
-    font-family: Gilroy-Bold;
+    font-family: "Gilroy-Bold";
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
