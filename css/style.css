@@ -16,6 +16,11 @@ body {
     padding-bottom: 40px;
 }
 
+.center {
+    /* padding-left: (calc(50%-1170px/2))px;
+    padding-right: (calc(50%-1170px/2))px; */
+}
+
 .main__header__logo__text {
     color: #000;
     font-family: Gilroy-Bold;
@@ -79,8 +84,8 @@ body {
 .button__start {
     border-radius: 50px;
     background: #F25822;
-    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
-    border: 0px;
+    box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.20);
+    border: 0;
     color: #FFF;
     font-family: Gilroy-Bold;
     font-size: 15px;
