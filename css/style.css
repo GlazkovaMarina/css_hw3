@@ -127,14 +127,12 @@ body {
     margin-left: 72px;
 }
 
-.main__logo__center {
+.main__logo {
+    margin-top: 97px;
+    margin-bottom: 97px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-}
-
-.main__logo {
-    margin-top: 97px;
-    margin-bottom: 97px;
+    gap: 46.8px;
 }
