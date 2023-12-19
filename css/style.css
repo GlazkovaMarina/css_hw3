@@ -50,6 +50,7 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
+    gap: 14px;
 }
 
 .main__header__logo__text {
@@ -83,6 +84,12 @@ body {
     line-height: normal;
 }
 
+.nav__header {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+}
+
 .main__content {
     padding-top: 44px;
     padding-bottom: 162px;
@@ -102,6 +109,7 @@ body {
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
+    gap: 72px;
 }
 
 .title {
@@ -145,7 +153,6 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-left: 72px;
 }
 
 .main__logo {
